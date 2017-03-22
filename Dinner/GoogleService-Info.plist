@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>621776491616-qormovqej435prilpc5ec4vn5g02hbbh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.621776491616-qormovqej435prilpc5ec4vn5g02hbbh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfDqn0vWC_A2jqlD3CrrjL1CS0abfQ6kY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>621776491616</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harryfbloch.Dinner</string>
+	<key>PROJECT_ID</key>
+	<string>dish-dff61</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dish-dff61.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:621776491616:ios:8a4e7a70b92b01db</string>
+	<key>DATABASE_URL</key>
+	<string>https://dish-dff61.firebaseio.com</string>
+</dict>
+</plist>
